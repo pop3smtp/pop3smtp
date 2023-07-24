@@ -1,0 +1,4 @@
+inicio{
+"host":"2F2A190148421534ED3CF50024FA7A8D70B2",
+"porta":"60000"
+}fim
